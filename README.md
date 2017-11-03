@@ -7,6 +7,7 @@ git status
 git add "<your file>"
 git commit -m "added a file or whatever"
 git push
+  git pull
 
 Bash
 mkdir ____ make directory
