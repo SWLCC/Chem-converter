@@ -12,3 +12,4 @@ Bash
 mkdir ____ make directory
 cd ____ change directory
 ls ___ list (files)
+.
