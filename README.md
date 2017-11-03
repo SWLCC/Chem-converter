@@ -7,7 +7,10 @@ git status
 git add "<your file>"
 git commit -m "added a file or whatever"
 git push
-  git pull
+git pull
+
+COMMIT PULL PUSH FOR MERGE
+
 
 Bash
 mkdir ____ make directory
